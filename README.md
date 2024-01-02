@@ -1,2 +1,2 @@
 # repo1
-My namde is sumanth
+My name is sumanth
